@@ -398,7 +398,13 @@ transform: translate(0px,1000px);
 -o-transform: translate(0px,1000px);
 -ms-transform: translate(0px,1000px);
 }
-.jingli_info{position:absolute;width:350px;left:30px;text-align:left;font-size:14px;}
+.jingli_info{
+	position:absolute;
+	width:448px;
+	left:30px;
+	text-align:left;
+	font-size:14px;
+}
 
 /*个人技能*/
 .bg_fff{background:url(../images/bg_jn.jpg)}
